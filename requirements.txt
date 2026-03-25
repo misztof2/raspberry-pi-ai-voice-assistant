@@ -1,0 +1,8 @@
+openai
+python-dotenv
+vosk
+gpiozero
+luma.oled
+Pillow
+RPi.GPIO
+spidev

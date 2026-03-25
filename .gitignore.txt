@@ -1,0 +1,9 @@
+.venv/
+models/
+.env
+__pycache__/
+*.pyc
+*.wav
+conversation.log
+chat.py.save
+chat.py.save.1
