@@ -12,3 +12,14 @@ Offline-capable voice assistant system built on Raspberry Pi 4.
 ## Run
 ```bash
 ./start.sh
+
+
+
+## Setup
+
+Download Vosk model manually:
+
+https://alphacephei.com/vosk/models
+
+Place it in:
+models/vosk-model-small-en-us-0.15
